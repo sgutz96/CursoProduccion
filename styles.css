@@ -59,7 +59,7 @@ header{transition:box-shadow .25s}header.sh{box-shadow:0 6px 24px rgba(22,32,58,
 .mo small{color:var(--mu);font-weight:500}.mo ul{margin:6px 0 0;padding-left:1.2em}
 .lec{background:var(--mint);border-radius:10px;padding:10px 16px;display:inline-block;font-size:.92rem}
 table.rb{border-collapse:collapse;width:100%;min-width:640px;font-size:.92rem}table.rb th,table.rb td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--ln);vertical-align:top}table.rb th{background:var(--mint)}
-.ov{overflow-x:auto}.hit{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.corte{margin:36px 0 16px}.corte h3{margin:0;font-size:1.2rem}.corte p{margin:4px 0 0;color:var(--mu)}.ov{overflow-x:auto}.hit{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
 .hit .ref p{margin:0 0 8px}.bar4{display:flex;height:44px;border-radius:10px;overflow:hidden;font-size:.85rem;font-weight:600;margin:16px 0}.bar4 div{display:flex;align-items:center;padding:0 12px;color:#fff;white-space:nowrap;overflow:hidden}
 .pv::after{content:none}.pv::before{content:"\2190 "}
 @media(max-width:600px){.tb{flex-direction:column}}
